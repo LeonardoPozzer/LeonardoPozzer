@@ -1,7 +1,7 @@
 - 👋 Olá, sou o @LeonardoPozzer e curso Banco de Dados na Fatec-Bauru =)
 - 👀 Me interesso INSANAMENTE por programação e banco de dados!
 - 🌱 Estou aprendendo C por enquanto...
-- 📫 Entre em contato comigo por leonardommenezzess@gmail.com
+- 📫 Entre em contato comigo por: leonardommenezzess@gmail.com
 
 //
 
